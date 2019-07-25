@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glassbro-io-<YOUR_PROJECT_SNEAKER_NAME_HERE>",
+  "private_key_id": "1a1738c9f1766681f2873cdcff1eb56e0894da29",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9QoA/Eevwsel2\nv9RNZLksBUQf/wYzZMwJ1hiAbEdoBUc6TZiixIai+sNK+ToIjq9sl2NMTll1z7k/\np8J3VrV8GLK4L9V67TS7vmXosRgWGYvFUS6P2yCYjAjLyOyp2n/BsyiS2s9+PHuc\nPzztN3flZl7XxjHBN3FXZfvM+ewi11SBq6S0z9Mvj6xUV57cmZkNfVGgIzl7jVDj\nM9Osaws+cJa6S1PbpucSu+iL2moS4gb7YTL0cZgn8ip9ftuTCQUzkdsDdU4tmLp1\ni+W/yBmCPiJfH36kTgJexvAvE0hCG9LftR3/JJVIrC0o1tSOrLr0sFDfilVvmzFm\nQcOpV4VrAgMBAAECggEAPX6yqguaNMqyN7YL9xu/uSh64sScEK3zSEzrCCtmpkt0\nweJ9soGV17YQJ7fEXgxyvp+QEbaxhcC5ig/p9ZnUfV6PD57nSDpz9H7goRON5nxl\neHcw4GhMdpSltQVztJr9AQTELbdwTS284l9/3fo0eHLjZUwOVaA8sS+/efJJAmaS\nq6ap5KEliURW4ImColgvQu9ncmFrFD83fiIGVQq6pYNtOmoMNfNFXSQLzrvs1Oma\njWi7yN0IWY0TDjLXVWdykuO3qzx5NVYu8BP6+Xok1YnNpk+DZ3ISumd0yzCg2NOU\nDZEUuGKC4qRoTN7losdn2TyJtT1q+UPqy0g3+ndXIQKBgQDtI3HkCjLoetnEhQJj\nQrIdyAusgllybsXBAqNVMIiw+g+zdEVJ1dP2Pu0Ip2K957EjOXT3h7HwGbMhN8Wg\nJOLD6/H4DSdj4iF7WLTjQFE8WJcwdz59fOcJR4T1qbiTf9c/O6oa6FwE5GExe125\n49Twzcj3Gy7yFPuSsl5UpR9FCwKBgQDMUCl36yPTDEFjPv5ZPi3vO6BF9bDZxBkB\n5QGdSgji8ORBBzGkGes1ih1zQmRDLXOtfAxUBsNhdMUPl7O4QCNn9MWx111EkDns\n9T2j03pSjeB9zx+4WAfxpkq43h5sAkwdqxYTI3zghAoHkeeOHg3c0HGVvzK1oStT\nVcl2mBQ9IQKBgQDlv+yNGpB+CuBHdPJ+RtUY44Lj7RpKMyZnPG4QkEgu5uclX2Xu\nBjwpHIg8VSfmg75sOTOoypBL5ipV6ZoP8Qy+8y7ou53JOQJlZelDL0JFbDN24mDp\n5YRVyjP4ayoHxdk+S0kgbrUQjE/aSALjoefiMg4d0vll04x1cVjRO3WTRwKBgGlw\n3VXT9jMO2hf8BIvN+SrDnN0+BLz95OIDa6fe82MbatDcg5PrBGYnFzfKha/dnxtj\nL4GV0/NRrfl0Ev39q8gUnIpBWRLvU9WkYuFPXIuKSNbks7wRQlhFt75cc1rOfLW6\n+7N41xOPURXDCLtha0oQEO51NBhkStXBKi2YIqnBAoGAVNP8vlbIqQij9CkbPucZ\neEaIENhV0kjLts3xAprbNQisnUWB9vQhwWE1Z3b38qezaqoZH2mS0WAvaHByQvqZ\nWGcXPWzZSfKNgvwyctz4SBGN46KVYXzDaiivlesWthXzYiB550yGbYmuc7P+jcvi\npKWRkCQMcbJeekJlY3/d/DU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "glassbro-admin@glassbro-io-<YOUR_PROJECT_SNEAKER_NAME_HERE>.iam.gserviceaccount.com",
+  "client_id": "114508859809318433888",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/glassbro-admin%40glassbro-io-<YOUR_PROJECT_SNEAKER_NAME_HERE>.iam.gserviceaccount.com"
+}
+
